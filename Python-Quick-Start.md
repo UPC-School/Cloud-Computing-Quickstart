@@ -52,8 +52,8 @@ Before you continue, you will need Python on your computer, but you may not need
 
 ``` 
 username@vm:~$ python
-Python 2.7.10 (default, Sep 23 2017, 04:34:14) 
-[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.72)] on darwin
+Python 3.7.0 (default, Jun 28 2018, 07:39:16) 
+[Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
